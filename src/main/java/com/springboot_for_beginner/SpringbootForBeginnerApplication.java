@@ -42,8 +42,6 @@ public void deletecustomer(@PathVariable("customerId") Integer id) {
 }
 
 
-    @PutMapping("{customerId}")
-    public void updatecustomer(@PathVariable("customerId") Integer id) {
 
     }
-}
+
